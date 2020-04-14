@@ -1,0 +1,34 @@
+{
+  "object": {
+    "objectId": "o_1586260660187_2670a989_86e2_4ac2_bdc7_38041245d2c7",
+    "creationTime": 1586260660187,
+    "lastUpdate": 1586260660187,
+    "version": "1.3"
+  },
+  "id": "e_1586260660675_45tgrea989_86e2_4tg2_brt7_38041245d5ytr",
+  "timestamp": 1586260660187,
+  "identifier": "3106874362664486",
+  "channel": "facebook",
+  "delivery": {
+    "mids": [
+      "m_INTERN_ekf9ernrBP9EYOFTCvT-4SfbgL2CADiQRt3QZlisq8VgIZmM0262fc1jNcCj_aHfpGBxu6Y5llVFRt5EnbGP_g",
+      "m_INTERN_HP-AsH28BFhNCMQk6w7PmSfbgL2CADiQRt3QZlisq8XlyZx-3hsRjPginrBO9HBA2_Kk0UKJWPYL5IUPBT94Kw",
+      "m_INTERN_mzfBWQCTgtrCpe1IPbi5QifbgL2CADiQRt3QZlisq8U9ZYT-ClLH5dNhobyIvCq_bjHRqOhYBSOyEObWAD1ATA",
+      "m_INTERN_LwsoenYqna7j4UH82ZebAifbgL2CADiQRt3QZlisq8Ufzw53LIxB9tbKR2oTqaTlBD4gm0bINz0yigsR72cmQQ"
+    ],
+    "watermark": 1586852976014
+  },
+  "metadata": {
+    "object": {
+      "objectId": "o_1586260660187_2bf32bc0_ab77_4a7c_9c85_ae5d21c4f667",
+      "creationTime": 1586260660187,
+      "lastUpdate": 1586260660187,
+      "version": "1.3"
+    },
+    "sourceId": null,
+    "sourceConversationId": null,
+    "sourceTimestamp": 1585918885696,
+    "sourceWatermark": 1586852976014,
+    "language": null
+  }
+}

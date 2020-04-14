@@ -1,0 +1,28 @@
+{
+  "object": {
+    "objectId": "o_1586260660187_2670a989_86e2_4ac2_bdc7_38041245d2c7",
+    "creationTime": 1586260660187,
+    "lastUpdate": 1586260660187,
+    "version": "1.3"
+  },
+  "id": "e_1586260660675_45tgrea989_86e2_4tg2_brt7_38041245d5ytr",
+  "timestamp": 1586260660187,
+  "identifier": "3106874362664486",
+  "channel": "facebook",
+  "read": {
+    "watermark": 1586852976014
+  },
+  "metadata": {
+    "object": {
+      "objectId": "o_1586260660187_2bf32bc0_ab77_4a7c_9c85_ae5d21c4f667",
+      "creationTime": 1586260660187,
+      "lastUpdate": 1586260660187,
+      "version": "1.3"
+    },
+    "sourceId": null,
+    "sourceConversationId": null,
+    "sourceTimestamp": 1586852976014,
+    "sourceWatermark": 1586852976014,
+    "language": null
+  }
+}
